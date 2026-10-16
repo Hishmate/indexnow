@@ -1,0 +1,22 @@
+{
+  "name": "indexnow-cli",
+  "version": "1.0.0",
+  "description": "Submit URLs to the IndexNow API from the command line. No dependencies.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "indexnow": "./indexnow.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "indexnow",
+    "seo",
+    "sitemap",
+    "bing",
+    "yandex",
+    "indexing",
+    "cli"
+  ]
+}
