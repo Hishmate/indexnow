@@ -18,7 +18,7 @@ and the engine fetches it. For a new site this is the difference between
 No dependencies, no build step. Node 18 or newer (uses global `fetch`).
 
 ```bash
-git clone <your-repo-url> && cd indexnow
+git clone https://github.com/Hishmate/indexnow.git && cd indexnow
 chmod +x indexnow.mjs
 ```
 
