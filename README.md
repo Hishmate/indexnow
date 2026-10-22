@@ -6,6 +6,9 @@ IndexNow is an open protocol for telling search engines which pages changed,
 instead of waiting for the next crawl. It is supported by Bing, Yandex, Seznam
 and Naver, and by several of the crawlers that feed AI answer engines.
 
+This is the tool [hishmate.com](https://hishmate.com) runs on every deploy to
+push its sitemap. No dependencies, no build step.
+
 ## Why
 
 Most sites have a `sitemap.xml` and assume that is enough. A sitemap is only a
